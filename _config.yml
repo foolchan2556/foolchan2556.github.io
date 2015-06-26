@@ -1,11 +1,11 @@
-name: Ewerton Nascimento
+name: Haolan Chen
 description: 
-meta_description: "Ewerton Nascimento"
+meta_description: "Haolan Chen"
 
 markdown: redcarpet
 pygments: true
 
-baseurl: http://ewertonorg.github.io/
+baseurl: http://foolchan2556.github.io/
 
 logo: false
 paginate: 15
@@ -13,7 +13,7 @@ permalink: /:title
 
 
 # Details for the RSS feed generator
-url:            'ewertonorg.github.io'
-author:         'Ewerton Nascimento'
+url:            'foolchan2556.github.io'
+author:         'Haolan Chen'
 
 
